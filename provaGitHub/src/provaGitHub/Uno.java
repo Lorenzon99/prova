@@ -6,7 +6,7 @@ public class Uno {
 
 	public Uno (){
 		while(true){
-			System.out.println("ciao!");
+			System.out.println("ciao moratto c:");
 		}
 	}
 	
