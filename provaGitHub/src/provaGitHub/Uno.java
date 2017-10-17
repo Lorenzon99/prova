@@ -8,6 +8,7 @@ public class Uno {
 		while(true){
 			System.out.println("ciao moratto c:");
 			System.out.println("ciao Lorenzon ::::");
+			// non funzia
 		}
 	}
 	
